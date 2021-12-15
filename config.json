@@ -1,0 +1,6 @@
+{
+	"ip":"127.0.0.1:25565",
+	"port": "25565",
+	"name": "MyBot",
+	"auto-night-skip":"false"
+}
